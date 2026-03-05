@@ -1,0 +1,23 @@
+# Ignore everything except blocklists
+.github/
+EXAMPLES.md
+NGINX_DOH_SETUP.md
+NGINX_QUICKSTART.md
+QUICKSTART.md
+TROUBLESHOOTING.md
+README.md
+config/
+data/
+doh_blocker.py
+requirements.txt
+run.sh
+scripts/
+setup.sh
+src/
+tests/
+venv/
+logs/
+models/
+*.pyc
+__pycache__/
+*.log

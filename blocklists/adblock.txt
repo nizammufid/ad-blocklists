@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-10-22T02:01:20.438065
-! Total domains: 1026036
+! DoH Ad Blocker - Generated on 2026-10-23T02:01:09.734960
+! Total domains: 1026038
 
 ||0--0.info^
 ||0--4.com^
@@ -115602,7 +115602,6 @@
 ||aax-fe-sin-rtb-adx.amazon-adsystem.com^
 ||aax-fe-sin-rtb.amazon-adsystem.com^
 ||aax-fe-sin.amazon-adsystem.com^
-||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
 ||aax-ott-sdk.amazon-adsystem.amazon.com^
@@ -131918,7 +131917,6 @@
 ||adsfree1.com^
 ||adsfry.com^
 ||adsfs-id.heytapimg.com^
-||adsfs-id.oppomobile.com^
 ||adsfs-in.oppomobile.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.heytapimage.com^
@@ -438264,6 +438262,7 @@
 ||htx-trade.pro^
 ||htx789.com^
 ||htxapp.xyz^
+||htxcfg-1306115679.cos.ap-beijing.myqcloud.com^
 ||htxna.com^
 ||hty-smt.com^
 ||htymall.com^
@@ -688245,6 +688244,7 @@
 ||rr1---sn-a5mekndk.c.2mdn.net^
 ||rr1---sn-a5msen7z.c.2mdn.net^
 ||rr1---sn-aigl6nsk.c.2mdn.net^
+||rr1---sn-h5mpn-30ae6.gvt1.com^
 ||rr1---sn-p5qlsn7l.c.2mdn.net^
 ||rr1---sn-qxoednes.c.2mdn.net^
 ||rr1---sn-vgqsrn6e.c.2mdn.net^
@@ -688264,11 +688264,13 @@
 ||rr3jxemicsfzbnb1budvn5t3wppaj1772050906.nuid.imrworldwide.com^
 ||rr3s4p9hfoptgmhna.ay.delivery^
 ||rr4---sn-ab5szn67.c.2mdn.net^
+||rr4---sn-h5mpn-30ae6.gvt1.com^
 ||rr4---sn-h5mpn-30aes.gvt1.com^
 ||rr4---sn-npoe7nz7.c.2mdn.net^
 ||rr4---sn-q4fl6n66.c.2mdn.net^
 ||rr4-gateway.com^
 ||rr5---sn-5uaezne6.c.2mdn.net^
+||rr5---sn-h5mpn-30ae7.gvt1.com^
 ||rr5---sn-q4fzenl7.c.2mdn.net^
 ||rr5---sn-vgqsknzr.c.2mdn.net^
 ||rr5---sn-vgqsrnd7.c.2mdn.net^

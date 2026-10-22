@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-10-22T02:01:17.100353
-# Total domains: 1026036
+# DoH Ad Blocker - Generated on 2026-10-23T02:01:05.900589
+# Total domains: 1026038
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 
 0.0.0.0 0--0.info
@@ -231204,8 +231204,6 @@
 :: aax-fe-sin-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 :: aax-fe-sin.amazon-adsystem.com
-0.0.0.0 aax-fe.amazon-adsystem.com
-:: aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 :: aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
@@ -263836,8 +263834,6 @@
 :: adsfry.com
 0.0.0.0 adsfs-id.heytapimg.com
 :: adsfs-id.heytapimg.com
-0.0.0.0 adsfs-id.oppomobile.com
-:: adsfs-id.oppomobile.com
 0.0.0.0 adsfs-in.oppomobile.com
 :: adsfs-in.oppomobile.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
@@ -876528,6 +876524,8 @@
 :: htx789.com
 0.0.0.0 htxapp.xyz
 :: htxapp.xyz
+0.0.0.0 htxcfg-1306115679.cos.ap-beijing.myqcloud.com
+:: htxcfg-1306115679.cos.ap-beijing.myqcloud.com
 0.0.0.0 htxna.com
 :: htxna.com
 0.0.0.0 hty-smt.com
@@ -1376490,6 +1376488,8 @@
 :: rr1---sn-a5msen7z.c.2mdn.net
 0.0.0.0 rr1---sn-aigl6nsk.c.2mdn.net
 :: rr1---sn-aigl6nsk.c.2mdn.net
+0.0.0.0 rr1---sn-h5mpn-30ae6.gvt1.com
+:: rr1---sn-h5mpn-30ae6.gvt1.com
 0.0.0.0 rr1---sn-p5qlsn7l.c.2mdn.net
 :: rr1---sn-p5qlsn7l.c.2mdn.net
 0.0.0.0 rr1---sn-qxoednes.c.2mdn.net
@@ -1376528,6 +1376528,8 @@
 :: rr3s4p9hfoptgmhna.ay.delivery
 0.0.0.0 rr4---sn-ab5szn67.c.2mdn.net
 :: rr4---sn-ab5szn67.c.2mdn.net
+0.0.0.0 rr4---sn-h5mpn-30ae6.gvt1.com
+:: rr4---sn-h5mpn-30ae6.gvt1.com
 0.0.0.0 rr4---sn-h5mpn-30aes.gvt1.com
 :: rr4---sn-h5mpn-30aes.gvt1.com
 0.0.0.0 rr4---sn-npoe7nz7.c.2mdn.net
@@ -1376538,6 +1376540,8 @@
 :: rr4-gateway.com
 0.0.0.0 rr5---sn-5uaezne6.c.2mdn.net
 :: rr5---sn-5uaezne6.c.2mdn.net
+0.0.0.0 rr5---sn-h5mpn-30ae7.gvt1.com
+:: rr5---sn-h5mpn-30ae7.gvt1.com
 0.0.0.0 rr5---sn-q4fzenl7.c.2mdn.net
 :: rr5---sn-q4fzenl7.c.2mdn.net
 0.0.0.0 rr5---sn-vgqsknzr.c.2mdn.net

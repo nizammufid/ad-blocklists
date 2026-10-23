@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-10-23T02:01:08.187397
-# Total domains: 1026038
+# DoH Ad Blocker - Generated on 2026-10-24T02:00:57.584172
+# Total domains: 1026035
 
 0--0.info
 0--4.com
@@ -438262,7 +438262,6 @@ htx-defender.pro
 htx-trade.pro
 htx789.com
 htxapp.xyz
-htxcfg-1306115679.cos.ap-beijing.myqcloud.com
 htxna.com
 hty-smt.com
 htymall.com
@@ -688249,7 +688248,6 @@ rr1---sn-p5qlsn7l.c.2mdn.net
 rr1---sn-qxoednes.c.2mdn.net
 rr1---sn-vgqsrn6e.c.2mdn.net
 rr1.xxxcounter.com
-rr2---sn-h5mpn-30ae6.gvt1.com
 rr2---sn-p5qs7nzr.c.2mdn.net
 rr2.xxxcounter.com
 rr2sc.com
@@ -688264,7 +688262,6 @@ rr3---sn-vgqskn6k.c.2mdn.net
 rr3jxemicsfzbnb1budvn5t3wppaj1772050906.nuid.imrworldwide.com
 rr3s4p9hfoptgmhna.ay.delivery
 rr4---sn-ab5szn67.c.2mdn.net
-rr4---sn-h5mpn-30ae6.gvt1.com
 rr4---sn-h5mpn-30aes.gvt1.com
 rr4---sn-npoe7nz7.c.2mdn.net
 rr4---sn-q4fl6n66.c.2mdn.net

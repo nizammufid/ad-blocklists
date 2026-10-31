@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-10-31T02:01:12.021958
-! Total domains: 1026037
+! DoH Ad Blocker - Generated on 2026-11-01T02:01:07.830690
+! Total domains: 1026036
 
 ||0--0.info^
 ||0--4.com^
@@ -115602,7 +115602,6 @@
 ||aax-fe-sin-rtb-adx.amazon-adsystem.com^
 ||aax-fe-sin-rtb.amazon-adsystem.com^
 ||aax-fe-sin.amazon-adsystem.com^
-||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
 ||aax-ott-sdk.amazon-adsystem.amazon.com^
@@ -438147,6 +438146,7 @@
 ||http-test1.brdtnet.com^
 ||http.cdnlayer.com^
 ||http17c.app^
+||http://vibeaconstr.onezapp.com:8080/analytics/upload^
 ||httpaccess.com^
 ||httpads.com^
 ||httpbuyitnowandsave.com^
@@ -688243,7 +688243,6 @@
 ||rr1---sn-a5mekndk.c.2mdn.net^
 ||rr1---sn-a5msen7z.c.2mdn.net^
 ||rr1---sn-aigl6nsk.c.2mdn.net^
-||rr1---sn-h5mpn-30ae6.gvt1.com^
 ||rr1---sn-p5qlsn7l.c.2mdn.net^
 ||rr1---sn-qxoednes.c.2mdn.net^
 ||rr1---sn-vgqsrn6e.c.2mdn.net^

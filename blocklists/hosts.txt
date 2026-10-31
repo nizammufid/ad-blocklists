@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-10-31T02:01:08.210142
-# Total domains: 1026037
+# DoH Ad Blocker - Generated on 2026-11-01T02:01:03.281986
+# Total domains: 1026036
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 
 0.0.0.0 0--0.info
@@ -231204,8 +231204,6 @@
 :: aax-fe-sin-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 :: aax-fe-sin.amazon-adsystem.com
-0.0.0.0 aax-fe.amazon-adsystem.com
-:: aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 :: aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
@@ -876294,6 +876292,8 @@
 :: http.cdnlayer.com
 0.0.0.0 http17c.app
 :: http17c.app
+0.0.0.0 http://vibeaconstr.onezapp.com:8080/analytics/upload
+:: http://vibeaconstr.onezapp.com:8080/analytics/upload
 0.0.0.0 httpaccess.com
 :: httpaccess.com
 0.0.0.0 httpads.com
@@ -1376486,8 +1376486,6 @@
 :: rr1---sn-a5msen7z.c.2mdn.net
 0.0.0.0 rr1---sn-aigl6nsk.c.2mdn.net
 :: rr1---sn-aigl6nsk.c.2mdn.net
-0.0.0.0 rr1---sn-h5mpn-30ae6.gvt1.com
-:: rr1---sn-h5mpn-30ae6.gvt1.com
 0.0.0.0 rr1---sn-p5qlsn7l.c.2mdn.net
 :: rr1---sn-p5qlsn7l.c.2mdn.net
 0.0.0.0 rr1---sn-qxoednes.c.2mdn.net

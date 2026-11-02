@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-02T02:00:59.445593
-! Total domains: 1026024
+! DoH Ad Blocker - Generated on 2026-11-03T02:12:38.902886
+! Total domains: 1026043
 
 ||0--0.info^
 ||0--4.com^
@@ -19979,6 +19979,7 @@
 ||1964js.com^
 ||1964n8n.store^
 ||196607f320c90a86.com^
+||196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com^
 ||19662b9141022.beer^
 ||196633.com^
 ||1966b.com^
@@ -55871,6 +55872,7 @@
 ||4f09fca5abb946e3.com^
 ||4f0aqp.info^
 ||4f0b987b410311.beer^
+||4f0d00b3-4dc6-49cf-bf90-dae988e0b38b.frame.claudeusercontent.com^
 ||4f0e83656e42f29a.com^
 ||4f0je0vlvolrkxh5hzr8y6rxoo995rib.d.sardine.ai^
 ||4f10ac9a3d82cec8.com^
@@ -102404,6 +102406,7 @@
 ||9f52114ffc0d4b79.com^
 ||9f52dc2c69b86c24ad9e13557b1548fa.xyz^
 ||9f53137ff9d73a6dbb6f953bbfe339de.shop^
+||9f551270-4113-42df-b4c1-b9f4d14dd4f7.frame.claudeusercontent.com^
 ||9f557fe35219.top^
 ||9f563e6882c96f4b.com^
 ||9f573f54c10271.beer^
@@ -162589,6 +162592,7 @@
 ||api16-access-ttp.tiktokpangle.us^
 ||api16-access-va.pangle.io^
 ||api16-access-wf-my.pangle.io^
+||api16-access-wf-sg.pangle-b.io^
 ||api16-access-wf-sg.pangle.io^
 ||api16-dual-event-sg2.pangle.io^
 ||api16-dual-event-va.pangle.io^
@@ -162600,6 +162604,7 @@
 ||api16-log-sg2.pangle.io^
 ||api16-log-sg2.pangle.io.edgekey.net^
 ||api16-log-va.pangle.io^
+||api16-normal-c-useast1a.tiktokv.com^
 ||api168168.com^
 ||api2-paybridge.online^
 ||api2-vulcan.xyz^
@@ -358817,6 +358822,7 @@
 ||f5fc8b235755.com^
 ||f5fe1f01d718edbcefedaecaeb9077c2.azr.footprintdns.com^
 ||f5fe53d800c6474293b125ebb2a24010.fp.measure.office.com^
+||f5fec758-3977-458d-9637-e0add7ec1bc7.frame.claudeusercontent.com^
 ||f5ff789931014.beer^
 ||f5ffeff2c11032.beer^
 ||f5gvb-t0ay5-vxzybz.xyz^
@@ -438260,6 +438266,7 @@
 ||htx-trade.pro^
 ||htx789.com^
 ||htxapp.xyz^
+||htxcfg-1306115679.cos.ap-beijing.myqcloud.com^
 ||htxna.com^
 ||hty-smt.com^
 ||htymall.com^
@@ -448109,6 +448116,7 @@
 ||image-play.net^
 ||image-proxy.com^
 ||image-rentracks.com^
+||image-resizer-cloud-cdn.api.tmcms.quickplay.com^
 ||image-sc.richrelevance.com^
 ||image-seeker.com^
 ||image-sherpa.com^
@@ -580684,6 +580692,9 @@
 ||nlava.store^
 ||nlawnt.gurhan.com^
 ||nlaylnalanlalnal.net^
+||nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com^
+||nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com^
+||nlb-vhvlpepi34c8e0aa4x.ap-southeast-1.nlb.aliyuncsslbintl.com^
 ||nlbcb.tees2urdoor.com^
 ||nlbign.com^
 ||nlbigv.com^
@@ -598479,6 +598490,7 @@
 ||ohtctjiuow.com^
 ||ohtons.net^
 ||ohtqmamilan.com^
+||ohttp-relay-safebrowsing-android.google.fastly-edge.com^
 ||ohttp.prod.via.google^
 ||ohtwiqwhxovjlqi8fcb.cfd^
 ||ohuda.com^
@@ -634694,6 +634706,7 @@
 ||playaslife.com^
 ||playaud.info^
 ||playavalon.org^
+||playback-auth-service.api.tm.quickplay.com^
 ||playbacpress.fr^
 ||playbanco.com^
 ||playbanco.net^
@@ -689697,6 +689710,8 @@
 ||rtbwave.com^
 ||rtbweb.com^
 ||rtbxml.adokutrtb.com^
+||rtc-access16-normal-alisg.tiktokv.com^
+||rtc-access19-normal-useast1a.tiktokv.com^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger-ie.tiktokv.eu.ttdns3.com^
@@ -716126,6 +716141,7 @@
 ||sf16-static.i18n-pglstatp.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
+||sf16-vod-license-multi.byteplusvod.com^
 ||sf19.store^
 ||sf2723.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
@@ -827984,6 +828000,7 @@
 ||unitty.art^
 ||unitus.synergy-e.com^
 ||unituscu.blog^
+||unity-data-gke-prd-gateway.cdp.internal.unity3d.com^
 ||unity-imp.aarki.net^
 ||unity-invest.com^
 ||unity-metrics.cds.unity3d.com^
@@ -860209,8 +860226,10 @@
 ||webcap.com^
 ||webcash.nl^
 ||webcasino.store^
+||webcast-frontier23-normal-alisg.tiktokv.com^
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
+||webcast31-normal-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^
 ||webcertain.org^

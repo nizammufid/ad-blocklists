@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-04T02:00:48.371297
-! Total domains: 1026042
+! DoH Ad Blocker - Generated on 2026-11-05T02:00:48.069178
+! Total domains: 1026035
 
 ||0--0.info^
 ||0--4.com^
@@ -102405,6 +102405,7 @@
 ||9f52114ffc0d4b79.com^
 ||9f52dc2c69b86c24ad9e13557b1548fa.xyz^
 ||9f53137ff9d73a6dbb6f953bbfe339de.shop^
+||9f551270-4113-42df-b4c1-b9f4d14dd4f7.frame.claudeusercontent.com^
 ||9f557fe35219.top^
 ||9f563e6882c96f4b.com^
 ||9f573f54c10271.beer^
@@ -141381,7 +141382,6 @@
 ||ak679.cc^
 ||ak67ocpsrqlw.share.zrok.io^
 ||ak88pro.biz^
-||ak8s-prod-sg2-ext-nlb-ec63b86e2a9baf9f.elb.ap-southeast-1.amazonaws.com^
 ||ak9199.com^
 ||ak998.cc^
 ||aka-cdn-ns.adtech.de^
@@ -391254,8 +391254,6 @@
 ||gateway-system.net^
 ||gateway-tx-check-ledger.com^
 ||gateway-us-r5-fo-01.gadsme.com^
-||gateway-world.az.relay.teams.cloud.microsoft^
-||gateway-world.msit.az.relay.teams.cloud.microsoft^
 ||gateway.aderbracksklinikerna.se^
 ||gateway.adrta.com^
 ||gateway.aimia.com^
@@ -580691,7 +580689,6 @@
 ||nlawnt.gurhan.com^
 ||nlaylnalanlalnal.net^
 ||nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com^
-||nlb-1wms9mf7drisds87jk.ap-southeast-8.nlb.aliyuncsslbintl.com^
 ||nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com^
 ||nlb-vhvlpepi34c8e0aa4x.ap-southeast-1.nlb.aliyuncsslbintl.com^
 ||nlbcb.tees2urdoor.com^
@@ -634705,7 +634702,6 @@
 ||playaslife.com^
 ||playaud.info^
 ||playavalon.org^
-||playback-auth-service.api.tm.quickplay.com^
 ||playbacpress.fr^
 ||playbanco.com^
 ||playbanco.net^
@@ -703809,7 +703805,6 @@
 ||sdks.automizely-analytics.com^
 ||sdks.stats-locations.com^
 ||sdksaxnhxdzos.site^
-||sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||sdksm-sdksdm-dks.cfd^
 ||sdksp.video.qq.com^
 ||sdktcy3281.top^
@@ -827999,7 +827994,6 @@
 ||unitty.art^
 ||unitus.synergy-e.com^
 ||unituscu.blog^
-||unity-data-gke-prd-gateway.cdp.internal.unity3d.com^
 ||unity-imp.aarki.net^
 ||unity-invest.com^
 ||unity-metrics.cds.unity3d.com^
@@ -860228,7 +860222,6 @@
 ||webcast-frontier23-normal-alisg.tiktokv.com^
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
-||webcast22-normal-c-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^
 ||webcertain.org^

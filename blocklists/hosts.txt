@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-05T02:00:44.535865
-# Total domains: 1026035
+# DoH Ad Blocker - Generated on 2026-11-06T02:00:41.233393
+# Total domains: 1026040
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 
 0.0.0.0 0--0.info
@@ -39956,6 +39956,8 @@
 :: 1964js.com
 0.0.0.0 1964n8n.store
 :: 1964n8n.store
+0.0.0.0 196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com
+:: 196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com
 0.0.0.0 196607f320c90a86.com
 :: 196607f320c90a86.com
 0.0.0.0 196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com
@@ -204810,8 +204812,6 @@
 :: 9f52dc2c69b86c24ad9e13557b1548fa.xyz
 0.0.0.0 9f53137ff9d73a6dbb6f953bbfe339de.shop
 :: 9f53137ff9d73a6dbb6f953bbfe339de.shop
-0.0.0.0 9f551270-4113-42df-b4c1-b9f4d14dd4f7.frame.claudeusercontent.com
-:: 9f551270-4113-42df-b4c1-b9f4d14dd4f7.frame.claudeusercontent.com
 0.0.0.0 9f557fe35219.top
 :: 9f557fe35219.top
 0.0.0.0 9f563e6882c96f4b.com
@@ -325182,6 +325182,8 @@
 :: api16-access-va.pangle.io
 0.0.0.0 api16-access-wf-my.pangle.io
 :: api16-access-wf-my.pangle.io
+0.0.0.0 api16-access-wf-sg.pangle-b.io
+:: api16-access-wf-sg.pangle-b.io
 0.0.0.0 api16-access-wf-sg.pangle.io
 :: api16-access-wf-sg.pangle.io
 0.0.0.0 api16-dual-event-sg2.pangle.io
@@ -876526,8 +876528,6 @@
 :: htx789.com
 0.0.0.0 htxapp.xyz
 :: htxapp.xyz
-0.0.0.0 htxcfg-1306115679.cos.ap-beijing.myqcloud.com
-:: htxcfg-1306115679.cos.ap-beijing.myqcloud.com
 0.0.0.0 htxna.com
 :: htxna.com
 0.0.0.0 hty-smt.com
@@ -1407610,6 +1407610,8 @@
 :: sdks.stats-locations.com
 0.0.0.0 sdksaxnhxdzos.site
 :: sdksaxnhxdzos.site
+0.0.0.0 sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn
+:: sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 0.0.0.0 sdksm-sdksdm-dks.cfd
 :: sdksm-sdksdm-dks.cfd
 0.0.0.0 sdksp.video.qq.com
@@ -1432272,6 +1432274,8 @@
 :: sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 :: sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
+0.0.0.0 sf16-vod-license-multi.byteplusvod.com
+:: sf16-vod-license-multi.byteplusvod.com
 0.0.0.0 sf19.store
 :: sf19.store
 0.0.0.0 sf2723.com
@@ -1655988,6 +1655992,8 @@
 :: unitus.synergy-e.com
 0.0.0.0 unituscu.blog
 :: unituscu.blog
+0.0.0.0 unity-data-gke-prd-gateway.cdp.internal.unity3d.com
+:: unity-data-gke-prd-gateway.cdp.internal.unity3d.com
 0.0.0.0 unity-imp.aarki.net
 :: unity-imp.aarki.net
 0.0.0.0 unity-invest.com
@@ -1720444,6 +1720450,10 @@
 :: webcast-govdelivery.com
 0.0.0.0 webcast.notifysrv.com
 :: webcast.notifysrv.com
+0.0.0.0 webcast22-normal-c-alisg.tiktokv.com
+:: webcast22-normal-c-alisg.tiktokv.com
+0.0.0.0 webcast31-normal-alisg.tiktokv.com
+:: webcast31-normal-alisg.tiktokv.com
 0.0.0.0 webcenters.netscape.compuserve.com
 :: webcenters.netscape.compuserve.com
 0.0.0.0 webcert.cnmstl.net

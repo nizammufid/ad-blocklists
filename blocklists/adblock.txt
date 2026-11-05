@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-05T02:00:48.069178
-! Total domains: 1026035
+! DoH Ad Blocker - Generated on 2026-11-06T02:00:45.433111
+! Total domains: 1026040
 
 ||0--0.info^
 ||0--4.com^
@@ -19978,6 +19978,7 @@
 ||1964gmail.com^
 ||1964js.com^
 ||1964n8n.store^
+||196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com^
 ||196607f320c90a86.com^
 ||196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com^
 ||19662b9141022.beer^
@@ -102405,7 +102406,6 @@
 ||9f52114ffc0d4b79.com^
 ||9f52dc2c69b86c24ad9e13557b1548fa.xyz^
 ||9f53137ff9d73a6dbb6f953bbfe339de.shop^
-||9f551270-4113-42df-b4c1-b9f4d14dd4f7.frame.claudeusercontent.com^
 ||9f557fe35219.top^
 ||9f563e6882c96f4b.com^
 ||9f573f54c10271.beer^
@@ -162591,6 +162591,7 @@
 ||api16-access-ttp.tiktokpangle.us^
 ||api16-access-va.pangle.io^
 ||api16-access-wf-my.pangle.io^
+||api16-access-wf-sg.pangle-b.io^
 ||api16-access-wf-sg.pangle.io^
 ||api16-dual-event-sg2.pangle.io^
 ||api16-dual-event-va.pangle.io^
@@ -438263,7 +438264,6 @@
 ||htx-trade.pro^
 ||htx789.com^
 ||htxapp.xyz^
-||htxcfg-1306115679.cos.ap-beijing.myqcloud.com^
 ||htxna.com^
 ||hty-smt.com^
 ||htymall.com^
@@ -703805,6 +703805,7 @@
 ||sdks.automizely-analytics.com^
 ||sdks.stats-locations.com^
 ||sdksaxnhxdzos.site^
+||sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||sdksm-sdksdm-dks.cfd^
 ||sdksp.video.qq.com^
 ||sdktcy3281.top^
@@ -716136,6 +716137,7 @@
 ||sf16-static.i18n-pglstatp.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
+||sf16-vod-license-multi.byteplusvod.com^
 ||sf19.store^
 ||sf2723.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
@@ -827994,6 +827996,7 @@
 ||unitty.art^
 ||unitus.synergy-e.com^
 ||unituscu.blog^
+||unity-data-gke-prd-gateway.cdp.internal.unity3d.com^
 ||unity-imp.aarki.net^
 ||unity-invest.com^
 ||unity-metrics.cds.unity3d.com^
@@ -860222,6 +860225,8 @@
 ||webcast-frontier23-normal-alisg.tiktokv.com^
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
+||webcast22-normal-c-alisg.tiktokv.com^
+||webcast31-normal-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^
 ||webcertain.org^

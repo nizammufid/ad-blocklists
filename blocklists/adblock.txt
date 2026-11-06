@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-06T02:00:45.433111
-! Total domains: 1026040
+! DoH Ad Blocker - Generated on 2026-11-07T02:00:48.942003
+! Total domains: 1026038
 
 ||0--0.info^
 ||0--4.com^
@@ -162591,7 +162591,6 @@
 ||api16-access-ttp.tiktokpangle.us^
 ||api16-access-va.pangle.io^
 ||api16-access-wf-my.pangle.io^
-||api16-access-wf-sg.pangle-b.io^
 ||api16-access-wf-sg.pangle.io^
 ||api16-dual-event-sg2.pangle.io^
 ||api16-dual-event-va.pangle.io^
@@ -162603,7 +162602,6 @@
 ||api16-log-sg2.pangle.io^
 ||api16-log-sg2.pangle.io.edgekey.net^
 ||api16-log-va.pangle.io^
-||api16-normal-c-useast1a.tiktokv.com^
 ||api168168.com^
 ||api2-paybridge.online^
 ||api2-vulcan.xyz^
@@ -372852,6 +372850,7 @@
 ||fireflyscientific.com^
 ||fireflyskinz.com^
 ||firefox-addons.com^
+||firefox-settings-attachments.cdn.mozilla.net^
 ||firefox-updater.com^
 ||firefox-www.cyou^
 ||firefoxcomt.arkouowi.com^
@@ -438264,6 +438263,7 @@
 ||htx-trade.pro^
 ||htx789.com^
 ||htxapp.xyz^
+||htxcfg-1306115679.cos.ap-beijing.myqcloud.com^
 ||htxna.com^
 ||hty-smt.com^
 ||htymall.com^
@@ -703805,7 +703805,6 @@
 ||sdks.automizely-analytics.com^
 ||sdks.stats-locations.com^
 ||sdksaxnhxdzos.site^
-||sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||sdksm-sdksdm-dks.cfd^
 ||sdksp.video.qq.com^
 ||sdktcy3281.top^
@@ -716138,6 +716137,7 @@
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
 ||sf16-vod-license-multi.byteplusvod.com^
+||sf16-website-login.neutral.ttwstatic.com^
 ||sf19.store^
 ||sf2723.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
@@ -827996,7 +827996,6 @@
 ||unitty.art^
 ||unitus.synergy-e.com^
 ||unituscu.blog^
-||unity-data-gke-prd-gateway.cdp.internal.unity3d.com^
 ||unity-imp.aarki.net^
 ||unity-invest.com^
 ||unity-metrics.cds.unity3d.com^
@@ -860225,7 +860224,6 @@
 ||webcast-frontier23-normal-alisg.tiktokv.com^
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
-||webcast22-normal-c-alisg.tiktokv.com^
 ||webcast31-normal-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^

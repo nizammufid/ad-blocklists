@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-09T02:00:54.600448
-! Total domains: 1026040
+! DoH Ad Blocker - Generated on 2026-11-10T02:00:49.119549
+! Total domains: 1026044
 
 ||0--0.info^
 ||0--4.com^
@@ -19978,8 +19978,8 @@
 ||1964gmail.com^
 ||1964js.com^
 ||1964n8n.store^
-||196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com^
 ||196607f320c90a86.com^
+||196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com^
 ||19662b9141022.beer^
 ||196633.com^
 ||1966b.com^
@@ -162592,6 +162592,7 @@
 ||api16-access-ttp.tiktokpangle.us^
 ||api16-access-va.pangle.io^
 ||api16-access-wf-my.pangle.io^
+||api16-access-wf-sg.pangle-b.io^
 ||api16-access-wf-sg.pangle.io^
 ||api16-dual-event-sg2.pangle.io^
 ||api16-dual-event-va.pangle.io^
@@ -439587,6 +439588,7 @@
 ||huobaguo.com^
 ||huobi-usdt-nb3ck1.com^
 ||huobi1.top^
+||huobicfg-1253283450.cos.ap-beijing.myqcloud.com^
 ||huobie.online^
 ||huobiph.com^
 ||huobjyrgiqftf.site^
@@ -551323,6 +551325,7 @@
 ||minipuppieszone.com^
 ||miniranchfeedstore.com^
 ||minireklam.com^
+||minis-mnn73kbxr1o3twtp-383flujyv4o0-3.tiktok-minis.us^
 ||minischnauzershome.company.site^
 ||miniscreens.site^
 ||minisexdoll.de^
@@ -557962,6 +557965,7 @@
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitor-frontend-collector.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||monitor-guideline-updates.vercel.app^
+||monitor-report.affiliate.shopee.com.my^
 ||monitor-stg.fci.fmon.fptcloud.com^
 ||monitor-stsdk.vivo.com.cn^
 ||monitor-stsdk.vivoglobal.com^
@@ -584898,7 +584902,6 @@
 ||npqoicwxeatqd.website^
 ||npr77casino.com^
 ||npralww9lu0g7m8ylfyiabmrmssx31769848937.nuid.nmrodam.com^
-||nprd-t6-1595427723.ap-southeast-1.elb.amazonaws.com^
 ||nprkvj.mall.sk^
 ||nprnwlb.pa-cd.com^
 ||nprodatapro.net^
@@ -598488,7 +598491,6 @@
 ||ohtctjiuow.com^
 ||ohtons.net^
 ||ohtqmamilan.com^
-||ohttp-relay-safebrowsing-android.google.fastly-edge.com^
 ||ohttp.prod.via.google^
 ||ohtwiqwhxovjlqi8fcb.cfd^
 ||ohuda.com^
@@ -610791,6 +610793,7 @@
 ||ouzone1.shop^
 ||ouzosbesiren.com^
 ||ouzoseposes.cfd^
+||ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws^
 ||ov.cabretpardao.com^
 ||ov.da.mgtv.com^
 ||ov.maniutyrone.com^
@@ -689709,6 +689712,7 @@
 ||rtbweb.com^
 ||rtbxml.adokutrtb.com^
 ||rtc-access16-normal-alisg.tiktokv.com^
+||rtc-access19-normal-useast1a.tiktokv.com^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger-ie.tiktokv.eu.ttdns3.com^
@@ -716138,7 +716142,6 @@
 ||sf16-static.i18n-pglstatp.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
-||sf16-website-login.neutral.ttwstatic.com^
 ||sf19.store^
 ||sf2723.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
@@ -860227,6 +860230,7 @@
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
 ||webcast22-normal-c-alisg.tiktokv.com^
+||webcast31-normal-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^
 ||webcertain.org^

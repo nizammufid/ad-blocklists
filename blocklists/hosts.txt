@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-09T02:00:50.508745
-# Total domains: 1026040
+# DoH Ad Blocker - Generated on 2026-11-10T02:00:45.380525
+# Total domains: 1026044
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 
 0.0.0.0 0--0.info
@@ -39956,10 +39956,10 @@
 :: 1964js.com
 0.0.0.0 1964n8n.store
 :: 1964n8n.store
-0.0.0.0 196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com
-:: 196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com
 0.0.0.0 196607f320c90a86.com
 :: 196607f320c90a86.com
+0.0.0.0 196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com
+:: 196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com
 0.0.0.0 19662b9141022.beer
 :: 19662b9141022.beer
 0.0.0.0 196633.com
@@ -325184,6 +325184,8 @@
 :: api16-access-va.pangle.io
 0.0.0.0 api16-access-wf-my.pangle.io
 :: api16-access-wf-my.pangle.io
+0.0.0.0 api16-access-wf-sg.pangle-b.io
+:: api16-access-wf-sg.pangle-b.io
 0.0.0.0 api16-access-wf-sg.pangle.io
 :: api16-access-wf-sg.pangle.io
 0.0.0.0 api16-dual-event-sg2.pangle.io
@@ -879174,6 +879176,8 @@
 :: huobi-usdt-nb3ck1.com
 0.0.0.0 huobi1.top
 :: huobi1.top
+0.0.0.0 huobicfg-1253283450.cos.ap-beijing.myqcloud.com
+:: huobicfg-1253283450.cos.ap-beijing.myqcloud.com
 0.0.0.0 huobie.online
 :: huobie.online
 0.0.0.0 huobiph.com
@@ -1102646,6 +1102650,8 @@
 :: miniranchfeedstore.com
 0.0.0.0 minireklam.com
 :: minireklam.com
+0.0.0.0 minis-mnn73kbxr1o3twtp-383flujyv4o0-3.tiktok-minis.us
+:: minis-mnn73kbxr1o3twtp-383flujyv4o0-3.tiktok-minis.us
 0.0.0.0 minischnauzershome.company.site
 :: minischnauzershome.company.site
 0.0.0.0 miniscreens.site
@@ -1115924,6 +1115930,8 @@
 :: monitor-frontend-collector.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 monitor-guideline-updates.vercel.app
 :: monitor-guideline-updates.vercel.app
+0.0.0.0 monitor-report.affiliate.shopee.com.my
+:: monitor-report.affiliate.shopee.com.my
 0.0.0.0 monitor-stg.fci.fmon.fptcloud.com
 :: monitor-stg.fci.fmon.fptcloud.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
@@ -1169796,8 +1169804,6 @@
 :: npr77casino.com
 0.0.0.0 npralww9lu0g7m8ylfyiabmrmssx31769848937.nuid.nmrodam.com
 :: npralww9lu0g7m8ylfyiabmrmssx31769848937.nuid.nmrodam.com
-0.0.0.0 nprd-t6-1595427723.ap-southeast-1.elb.amazonaws.com
-:: nprd-t6-1595427723.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 nprkvj.mall.sk
 :: nprkvj.mall.sk
 0.0.0.0 nprnwlb.pa-cd.com
@@ -1196976,8 +1196982,6 @@
 :: ohtons.net
 0.0.0.0 ohtqmamilan.com
 :: ohtqmamilan.com
-0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
-:: ohttp-relay-safebrowsing-android.google.fastly-edge.com
 0.0.0.0 ohttp.prod.via.google
 :: ohttp.prod.via.google
 0.0.0.0 ohtwiqwhxovjlqi8fcb.cfd
@@ -1221582,6 +1221586,8 @@
 :: ouzosbesiren.com
 0.0.0.0 ouzoseposes.cfd
 :: ouzoseposes.cfd
+0.0.0.0 ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws
+:: ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws
 0.0.0.0 ov.cabretpardao.com
 :: ov.cabretpardao.com
 0.0.0.0 ov.da.mgtv.com
@@ -1379418,6 +1379424,8 @@
 :: rtbxml.adokutrtb.com
 0.0.0.0 rtc-access16-normal-alisg.tiktokv.com
 :: rtc-access16-normal-alisg.tiktokv.com
+0.0.0.0 rtc-access19-normal-useast1a.tiktokv.com
+:: rtc-access19-normal-useast1a.tiktokv.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 :: rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
@@ -1432276,8 +1432284,6 @@
 :: sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 :: sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
-0.0.0.0 sf16-website-login.neutral.ttwstatic.com
-:: sf16-website-login.neutral.ttwstatic.com
 0.0.0.0 sf19.store
 :: sf19.store
 0.0.0.0 sf2723.com
@@ -1720454,6 +1720460,8 @@
 :: webcast.notifysrv.com
 0.0.0.0 webcast22-normal-c-alisg.tiktokv.com
 :: webcast22-normal-c-alisg.tiktokv.com
+0.0.0.0 webcast31-normal-alisg.tiktokv.com
+:: webcast31-normal-alisg.tiktokv.com
 0.0.0.0 webcenters.netscape.compuserve.com
 :: webcenters.netscape.compuserve.com
 0.0.0.0 webcert.cnmstl.net

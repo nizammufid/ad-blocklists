@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-11T02:14:53.899041
-! Total domains: 1026037
+! DoH Ad Blocker - Generated on 2026-11-12T02:01:01.551298
+! Total domains: 1026039
 
 ||0--0.info^
 ||0--4.com^
@@ -19978,6 +19978,7 @@
 ||1964gmail.com^
 ||1964js.com^
 ||1964n8n.store^
+||196588-ipv4fdsmte.gr.global.aa-rt.sharepoint.com^
 ||196607f320c90a86.com^
 ||196609-ipv4v6fdse.gr.global.aa-rt.sharepoint.com^
 ||19662b9141022.beer^
@@ -689705,6 +689706,8 @@
 ||rtbwave.com^
 ||rtbweb.com^
 ||rtbxml.adokutrtb.com^
+||rtc-access16-normal-alisg.tiktokv.com^
+||rtc-access19-normal-useast1a.tiktokv.com^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger-ie.tiktokv.eu.ttdns3.com^
@@ -860222,7 +860225,6 @@
 ||webcast-frontier23-normal-alisg.tiktokv.com^
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
-||webcast22-normal-c-alisg.tiktokv.com^
 ||webcast31-normal-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^

@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-12T02:01:01.551298
-! Total domains: 1026039
+! DoH Ad Blocker - Generated on 2026-11-13T02:01:13.649659
+! Total domains: 1026038
 
 ||0--0.info^
 ||0--4.com^
@@ -62667,7 +62667,6 @@
 ||59bf5e6647a69765e4c55b5ef2c533db.safeframe.googlesyndication.com^
 ||59brl-com1.com^
 ||59c019395f636f1b.com^
-||59c0218e-83ab-4293-9840-2a84ad2144de.frame.claudeusercontent.com^
 ||59c121adc214b38f.com^
 ||59c2a0146b2f84d3.com^
 ||59c4be7940aa455b98de2044bcd296cc.fp.measure.office.com^
@@ -438149,7 +438148,6 @@
 ||http-test1.brdtnet.com^
 ||http.cdnlayer.com^
 ||http17c.app^
-||http://vibeaconstr.onezapp.com:8080/analytics/upload^
 ||httpaccess.com^
 ||httpads.com^
 ||httpbuyitnowandsave.com^
@@ -580692,6 +580690,7 @@
 ||nlaylnalanlalnal.net^
 ||nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com^
 ||nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com^
+||nlb-vhvlpepi34c8e0aa4x.ap-southeast-1.nlb.aliyuncsslbintl.com^
 ||nlbcb.tees2urdoor.com^
 ||nlbign.com^
 ||nlbigv.com^

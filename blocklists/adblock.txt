@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-13T02:01:13.649659
-! Total domains: 1026038
+! DoH Ad Blocker - Generated on 2026-11-14T02:01:04.971672
+! Total domains: 1026037
 
 ||0--0.info^
 ||0--4.com^
@@ -438263,7 +438263,6 @@
 ||htx-trade.pro^
 ||htx789.com^
 ||htxapp.xyz^
-||htxcfg-1306115679.cos.ap-beijing.myqcloud.com^
 ||htxna.com^
 ||hty-smt.com^
 ||htymall.com^
@@ -827995,7 +827994,6 @@
 ||unitty.art^
 ||unitus.synergy-e.com^
 ||unituscu.blog^
-||unity-data-gke-prd-gateway.cdp.internal.unity3d.com^
 ||unity-imp.aarki.net^
 ||unity-invest.com^
 ||unity-metrics.cds.unity3d.com^
@@ -860224,6 +860222,7 @@
 ||webcast-frontier23-normal-alisg.tiktokv.com^
 ||webcast-govdelivery.com^
 ||webcast.notifysrv.com^
+||webcast22-normal-c-alisg.tiktokv.com^
 ||webcast31-normal-alisg.tiktokv.com^
 ||webcenters.netscape.compuserve.com^
 ||webcert.cnmstl.net^

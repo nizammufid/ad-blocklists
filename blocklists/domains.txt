@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-14T02:01:01.342645
-# Total domains: 1026037
+# DoH Ad Blocker - Generated on 2026-11-15T02:01:08.805357
+# Total domains: 1026041
 
 0--0.info
 0--4.com
@@ -265019,6 +265019,7 @@ configcontrol.com
 configdepov.sbs
 configforthis.site
 configsecure-entry.fr
+configserver-drax.platform.hicloud.com
 configservermu.net
 configservers.org
 configspparus.com
@@ -438148,6 +438149,7 @@ http-steamcommunity.com
 http-test1.brdtnet.com
 http.cdnlayer.com
 http17c.app
+http://vibeaconstr.onezapp.com:8080/analytics/upload
 httpaccess.com
 httpads.com
 httpbuyitnowandsave.com
@@ -505371,6 +505373,7 @@ limited-bitcoin-generator.org
 limited-final.pro
 limited-games.eventmax.za.com
 limited-grup.ch
+limited-mbz200-ext-prod.giphy.map.fastly.net
 limited-memory-curved.on-fleek.app
 limited-offerz.com
 limited-tie.pro
@@ -703804,6 +703807,7 @@ sdkreport.e.qq.com
 sdks.automizely-analytics.com
 sdks.stats-locations.com
 sdksaxnhxdzos.site
+sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 sdksm-sdksdm-dks.cfd
 sdksp.video.qq.com
 sdktcy3281.top
@@ -716135,7 +716139,6 @@ sf14g.com
 sf16-static.i18n-pglstatp.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
-sf16-vod-license-multi.byteplusvod.com
 sf19.store
 sf2723.com
 sf3-be-pack.pglstatp-toutiao.com
@@ -827994,6 +827997,7 @@ unitshappinessstrongest.com
 unitty.art
 unitus.synergy-e.com
 unituscu.blog
+unity-data-gke-prd-gateway.cdp.internal.unity3d.com
 unity-imp.aarki.net
 unity-invest.com
 unity-metrics.cds.unity3d.com

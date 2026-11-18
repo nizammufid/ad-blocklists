@@ -1,5 +1,5 @@
-! DoH Ad Blocker - Generated on 2026-11-18T02:01:07.724225
-! Total domains: 1026037
+! DoH Ad Blocker - Generated on 2026-11-19T02:14:58.301683
+! Total domains: 1026036
 
 ||0--0.info^
 ||0--4.com^
@@ -438148,7 +438148,6 @@
 ||http-test1.brdtnet.com^
 ||http.cdnlayer.com^
 ||http17c.app^
-||http://vibeaconstr.onezapp.com:8080/analytics/upload^
 ||httpaccess.com^
 ||httpads.com^
 ||httpbuyitnowandsave.com^
@@ -505372,7 +505371,6 @@
 ||limited-final.pro^
 ||limited-games.eventmax.za.com^
 ||limited-grup.ch^
-||limited-mbz200-ext-prod.giphy.map.fastly.net^
 ||limited-memory-curved.on-fleek.app^
 ||limited-offerz.com^
 ||limited-tie.pro^
@@ -703806,6 +703804,7 @@
 ||sdks.automizely-analytics.com^
 ||sdks.stats-locations.com^
 ||sdksaxnhxdzos.site^
+||sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||sdksm-sdksdm-dks.cfd^
 ||sdksp.video.qq.com^
 ||sdktcy3281.top^

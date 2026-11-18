@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-18T02:01:00.893163
-# Total domains: 1026037
+# DoH Ad Blocker - Generated on 2026-11-19T02:14:54.927076
+# Total domains: 1026036
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 
 0.0.0.0 0--0.info
@@ -876296,8 +876296,6 @@
 :: http.cdnlayer.com
 0.0.0.0 http17c.app
 :: http17c.app
-0.0.0.0 http://vibeaconstr.onezapp.com:8080/analytics/upload
-:: http://vibeaconstr.onezapp.com:8080/analytics/upload
 0.0.0.0 httpaccess.com
 :: httpaccess.com
 0.0.0.0 httpads.com
@@ -1010744,8 +1010742,6 @@
 :: limited-games.eventmax.za.com
 0.0.0.0 limited-grup.ch
 :: limited-grup.ch
-0.0.0.0 limited-mbz200-ext-prod.giphy.map.fastly.net
-:: limited-mbz200-ext-prod.giphy.map.fastly.net
 0.0.0.0 limited-memory-curved.on-fleek.app
 :: limited-memory-curved.on-fleek.app
 0.0.0.0 limited-offerz.com
@@ -1407612,6 +1407608,8 @@
 :: sdks.stats-locations.com
 0.0.0.0 sdksaxnhxdzos.site
 :: sdksaxnhxdzos.site
+0.0.0.0 sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn
+:: sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 0.0.0.0 sdksm-sdksdm-dks.cfd
 :: sdksm-sdksdm-dks.cfd
 0.0.0.0 sdksp.video.qq.com

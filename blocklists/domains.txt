@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-19T02:14:56.857388
-# Total domains: 1026036
+# DoH Ad Blocker - Generated on 2026-11-20T02:01:04.499986
+# Total domains: 1026032
 
 0--0.info
 0--4.com
@@ -580687,9 +580687,6 @@ nlargeconsult.org
 nlava.store
 nlawnt.gurhan.com
 nlaylnalanlalnal.net
-nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com
-nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com
-nlb-vhvlpepi34c8e0aa4x.ap-southeast-1.nlb.aliyuncsslbintl.com
 nlbcb.tees2urdoor.com
 nlbign.com
 nlbigv.com
@@ -860222,7 +860219,6 @@ webcasino.store
 webcast-frontier23-normal-alisg.tiktokv.com
 webcast-govdelivery.com
 webcast.notifysrv.com
-webcast31-normal-alisg.tiktokv.com
 webcenters.netscape.compuserve.com
 webcert.cnmstl.net
 webcertain.org

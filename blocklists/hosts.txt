@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-19T02:14:54.927076
-# Total domains: 1026036
+# DoH Ad Blocker - Generated on 2026-11-20T02:01:00.470985
+# Total domains: 1026032
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 
 0.0.0.0 0--0.info
@@ -1161374,12 +1161374,6 @@
 :: nlawnt.gurhan.com
 0.0.0.0 nlaylnalanlalnal.net
 :: nlaylnalanlalnal.net
-0.0.0.0 nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com
-:: nlb-0oihvq70lz6v3c6vn7.ap-southeast-1.nlb.aliyuncsslbintl.com
-0.0.0.0 nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com
-:: nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com
-0.0.0.0 nlb-vhvlpepi34c8e0aa4x.ap-southeast-1.nlb.aliyuncsslbintl.com
-:: nlb-vhvlpepi34c8e0aa4x.ap-southeast-1.nlb.aliyuncsslbintl.com
 0.0.0.0 nlbcb.tees2urdoor.com
 :: nlbcb.tees2urdoor.com
 0.0.0.0 nlbign.com
@@ -1720444,8 +1720438,6 @@
 :: webcast-govdelivery.com
 0.0.0.0 webcast.notifysrv.com
 :: webcast.notifysrv.com
-0.0.0.0 webcast31-normal-alisg.tiktokv.com
-:: webcast31-normal-alisg.tiktokv.com
 0.0.0.0 webcenters.netscape.compuserve.com
 :: webcenters.netscape.compuserve.com
 0.0.0.0 webcert.cnmstl.net

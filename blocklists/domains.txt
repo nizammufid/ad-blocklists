@@ -1,5 +1,5 @@
-# DoH Ad Blocker - Generated on 2026-11-20T02:01:04.499986
-# Total domains: 1026032
+# DoH Ad Blocker - Generated on 2026-11-21T02:01:02.309710
+# Total domains: 1026035
 
 0--0.info
 0--4.com
@@ -115604,6 +115604,7 @@ aax-fe-rtb.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
 aax-ott-sdk.amazon-adsystem.amazon.com
@@ -505371,6 +505372,7 @@ limited-bitcoin-generator.org
 limited-final.pro
 limited-games.eventmax.za.com
 limited-grup.ch
+limited-mbz200-ext-prod.giphy.map.fastly.net
 limited-memory-curved.on-fleek.app
 limited-offerz.com
 limited-tie.pro
@@ -703801,7 +703803,6 @@ sdkreport.e.qq.com
 sdks.automizely-analytics.com
 sdks.stats-locations.com
 sdksaxnhxdzos.site
-sdkserver-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 sdksm-sdksdm-dks.cfd
 sdksp.video.qq.com
 sdktcy3281.top
@@ -860219,6 +860220,8 @@ webcasino.store
 webcast-frontier23-normal-alisg.tiktokv.com
 webcast-govdelivery.com
 webcast.notifysrv.com
+webcast22-normal-c-alisg.tiktokv.com
+webcast31-normal-alisg.tiktokv.com
 webcenters.netscape.compuserve.com
 webcert.cnmstl.net
 webcertain.org

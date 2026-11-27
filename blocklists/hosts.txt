@@ -1,4 +1,4 @@
-# DoH Ad Blocker - Generated on 2026-11-27T02:11:17.707324
+# DoH Ad Blocker - Generated on 2026-11-28T02:00:53.837985
 # Total domains: 1026031
 # Each domain has both IPv4 (0.0.0.0) and IPv6 (::) sinkhole entries
 

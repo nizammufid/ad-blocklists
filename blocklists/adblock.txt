@@ -1,4 +1,4 @@
-! DoH Ad Blocker - Generated on 2026-11-27T02:11:20.433082
+! DoH Ad Blocker - Generated on 2026-11-28T02:00:56.797554
 ! Total domains: 1026031
 
 ||0--0.info^
